@@ -1,0 +1,48 @@
+header{
+    text-align: center;
+
+}
+
+ul.nav a:hover {
+    color:#DE003D !important;
+}
+
+
+
+
+
+/*--------footer---------*/
+
+
+footer{
+    witdh: 100%;
+    background-color:#222;
+    padding: 60px 0px;
+}
+.grid-item{
+    display:grid;
+    grid-column-gap: 10px;
+    padding:5px;
+}
+
+footer nav {
+    float:right;
+}
+
+.address-footer{
+    color:#fff;
+
+}
+
+
+
+footer nav ul li {
+    display:inline-block;
+    margin-left: 20px;
+    list-style:none;
+    padding:20px;
+}
+
+footer nav ul li a {
+    color: #fff;
+}
